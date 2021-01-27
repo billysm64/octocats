@@ -1,0 +1,34 @@
+body {
+  box-sizing: border-box;
+}
+
+a {
+  color: black;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+li {
+  display: inline-block;
+}
+
+.authors {
+  float: right;
+}
+
+.authors img {
+  width: 1.5rem;
+}
+
+.image-caption {
+  float: right;
+}
+
+.image-footer {
+  border-bottom: solid 2px #cdcdcd;
+  padding-bottom: 2rem;
+}
+
+.image-number {
+  color: #cdcdcd;
+}
